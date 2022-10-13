@@ -1,7 +1,7 @@
 ---
 name: Rick Senseney
 position: Flight Instructor, Instrument Flight Instructor
-image_path: /images/logo.svg
+image_path: /images/rick.png
 twitter: 
 blurb: 
 ---
