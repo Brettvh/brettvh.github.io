@@ -9,15 +9,12 @@
     link: /contact/
 - links:
   - name: Login
-    link: /
+    link: https://www.flightcircle.com/
     new_window: true
   - name: Sign Up
-    link: /
+    link: /contact/
     new_window: true
   - name: Docs
-    link: /
-    new_window: true
-  - name: Status
     link: /
     new_window: true
 - links:
@@ -25,15 +22,7 @@
     link: https://facebook.com/superiorflightindy/
     new_window: true
     social_icon: Facebook
-  - name: Twitter
-    link: https://twitter.com/superiorflightindy/
-    social_icon: Twitter
-    new_window: true
   - name: Instagram
     link: https://instragram.com/superiorflightindy/
     social_icon: Instagram
     new_window: true
-  - name: RSS
-    link: /feed.xml
-    social_icon: RSS
-    new_window: false
