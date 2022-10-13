@@ -1,71 +1,37 @@
 ---
 title: Pricing
-heading: Find the perfect plan for your business
-description: All plans include our award winning sales optimization solution to track your sales in real time.
+heading: Aircraft rental and instruction pricing
+description: No club fees! Prices include fuel!
 pricing_table:
-  - name: Basic
+  - name: 2022 Cessna 172 Aircraft Rental
     color: "#8e8e8e"
     features:
-      - text: $25 per month
+      - text: $180 per hobbs hour
         highlight: true
-      - text: Up to 5 users
+      - text: Wet price (includes fuel)
         highlight: false
-      - text: Basic lead scoring
+      - text: Garmin G1000 Avionics
         highlight: false
-      - text: CRM
-        highlight: false
-      - text: Basic reporting
-        highlight: false
-      - text: Sales map
+      - text: Garmin GFC500 Autopilot
         highlight: false
     call_to_action:
-      link: http://mysite.com?plan=basic
+      link: /contact
       text: Get started
-  - name: Pro
+  - name: Instruction Rates
     color: "#4a4a4a"
     features:
-      - text: $99 per month
+      - text: $50 per hour
         highlight: true
-      - text: Everything in Basic
-        highlight: false
-      - text: Up to 25 users
-        highlight: false
-      - text: Advanced lead scoring
-        highlight: false
-      - text: Pipeline management
-        highlight: false
-      - text: Advanced reporting
+      - text: Student pilot instruction rate
         highlight: false
     call_to_action:
-      link: http://mysite.com?plan=pro
-      text: Get started
-  - name: Professional
-    color: "#000000"
-    features:
-      - text: $299 per month
-        highlight: true
-      - text: Everything in Basic and Pro
-        highlight: false
-      - text: Up to 100 users
-        highlight: false
-      - text: Campaign builder
-        highlight: false
-      - text: Machine learning
-        highlight: false
-      - text: Calendar
-        highlight: false
-    call_to_action:
-      link: http://mysite.com?plan=professional
+      link: /contact
       text: Get started
 faq:
   - question: What types of payment do you accept?
-    answer: Credit cards including MasterCard, Visa or American Express.
-  - question: Can I change my plan at a later time?
-    answer: Yes, you can upgrade and downgrade your plan at anytime.
-  - question: Do you offer pricing for nonprofit organizations?
-    answer: Yes, send us a message and we'll set you up on our nonprofit pricing.
+    answer: Credit cards (including MasterCard, Visa or American Express) and Venmo
   - question: Questions?
-    answer: Contact us for any further questions at <a href="#">john@business.com</a>.
+    answer: Contact us for any further questions at <a href="#">info@superiorflighttraining.net</a>.
 ---
 <div class="plans">
 	{% for plan in page.pricing_table %}
