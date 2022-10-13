@@ -22,16 +22,16 @@
     new_window: true
 - links:
   - name: Facebook
-    link: https://facebook.com/cloudcannon/
+    link: https://facebook.com/superiorflightindy/
     new_window: true
     social_icon: Facebook
   - name: Twitter
-    link: https://twitter.com/cloudcannon/
+    link: https://twitter.com/superiorflightindy/
     social_icon: Twitter
     new_window: true
-  - name: YouTube
-    link: https://youtube.com/cloudcannon/
-    social_icon: YouTube
+  - name: Instagram
+    link: https://instragram.com/superiorflightindy/
+    social_icon: Instagram
     new_window: true
   - name: RSS
     link: /feed.xml
