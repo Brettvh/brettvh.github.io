@@ -1,7 +1,7 @@
 ---
 name: Bryan Wade
 position: Owner, Flight Instructor
-image_path: /images/bryan.png
+image_path: /images/card-bryan.png
 twitter: 
 blurb: 
 ---
